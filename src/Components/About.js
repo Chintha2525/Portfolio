@@ -1,5 +1,6 @@
 import React from 'react'
 import aboutGif from '../images/About.gif'
+import { Link } from 'react-router-dom'
 
 const About = () => {
     return (
@@ -23,7 +24,9 @@ const About = () => {
                 <p>Let's turn your visions into reality through innovative and scalable solutions.</p>
                 <br />
                 <div className='about-right-btn'>
+                    <Link to='https://drive.google.com/file/d/1-7Aia-gd3osFbMl2HbZWFjWHeayWIYNp/view?usp=drivesdk' target='_blank' className='more-project-link' rel='noopener noreferrer'>
                     <button>RESUME</button>
+                    </Link>
                 </div>
             </div>
         </div>
