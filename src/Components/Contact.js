@@ -47,14 +47,14 @@ const Contact = () => {
                                 <p>+91 9842974450</p>
                             </div>
                             <div className='contact-mail'>
-                            <Link to='https://mail.google.com/mail/u/0/?hl=en-GB&tf=cm&fs=1&to=dinesharun2525@gmail.com' target='_blank' rel='noopener noreferrer'>
+                            <Link to='https://mail.google.com/mail/u/0/?hl=en-GB&tf=cm&fs=1&to=chinthamani2525@gmail.com' target='_blank' rel='noopener noreferrer'>
                                 <div className='contact-mail-img'>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
                                         <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1zm13 2.383-4.708 2.825L15 11.105zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741M1 11.105l4.708-2.897L1 5.383z" />
                                     </svg>
                                 </div>
                                 </Link>
-                                <p>dinesharun2525@gmail.com</p>
+                                <p>chinthamani2525@gmail.com</p>
                             </div>
                         </div>
                     </div>
